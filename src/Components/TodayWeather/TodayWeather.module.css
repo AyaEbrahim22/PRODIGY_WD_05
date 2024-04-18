@@ -1,0 +1,9 @@
+.todayWeather{
+    width: 100%;
+    margin-top: 45px;
+    background-color: #101116cb;
+    padding: 18px;
+    border-radius: 20px;
+    color: rgb(209, 209, 209);
+    height: 100%;
+}
